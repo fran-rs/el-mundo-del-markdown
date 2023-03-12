@@ -38,5 +38,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 > http://localhost:8080/fran-rs/
+
 > npx @11ty/elventy --serve
